@@ -4,4 +4,6 @@ A very simple ETH price predictor based on LSTMs using TensorFlow 2.0.
 
 I'm using it to (try to) regain my bygone ML skills.
 
+Update Log:
 
+MAR 26 | 2020 -> Repo Created
