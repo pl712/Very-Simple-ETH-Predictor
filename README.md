@@ -6,4 +6,4 @@ I'm using it to (try to) regain my bygone ML skills.
 
 Update Log:
 
-MAR 26 | 2020 -> Repo Created
+MAR 26 -> Repo Created
