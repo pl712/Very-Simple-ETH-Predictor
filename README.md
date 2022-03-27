@@ -1,4 +1,4 @@
-# ETH Price Prediction Bot | TensorFlow 2.0 & LSTM/Attention
+# ETH Price Predictor | TensorFlow 2.0 & LSTM Time Series Prediction
 
 A very simple ETH price predictor based on LSTMs using TensorFlow 2.0 written in Google Colaboratory.
 
