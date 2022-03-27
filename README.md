@@ -1,6 +1,6 @@
 # ETH Price Time-Series Predictor | TF 2.0 & LSTM layers
 
-A very simple ETH price predictor based on LSTMs using TensorFlow 2.0 written in Google Colaboratory.
+A simple ETH price predictor TF 2.0 written in Google Colaboratory.
 
 Feel free to use and modify.
 
